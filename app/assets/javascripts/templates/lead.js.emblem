@@ -30,7 +30,6 @@ unless isEditing
 
     p
       a.delete href='#' click="delete" delete
-      input type='submit' value='Save Changes' click="saveChanges"
 
 
     p
